@@ -1,0 +1,77 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; // css reset we use start the web page
+} */
+/* hr{
+    width: 500px;
+    margin-left: 0;
+    border: 0.5px dashed black;
+    margin-top: 10px;
+}
+.box2{
+    box-sizing: border-box;
+    width: 500px;
+    background-color: rosybrown;
+    border: 10px solid red;
+    padding: 50px;
+    margin-bottom: 10px;
+}
+.box1{
+    width: 500px;
+    background-color: rosybrown;
+    border: 10px solid red;
+    padding: 50px;
+} */
+
+/* Inheritance */
+/* body{
+    color: red
+}
+.container1{
+    color: green;
+}
+.container2{
+    color: blue;
+}
+a{color: orange;
+text-decoration: none;
+font-size: 20px;} */
+
+/* text-align */
+
+
+/* h1{
+    background: lightblue;
+    text-align: right;
+    padding-right: 15px;
+    /* text-align: center; */
+    /* width: 500px; */
+
+/* 
+}
+a{
+    display: inline-block;
+    width: 500px;
+    background: lightcoral; */
+    /* text-align: center;   ye center nai hoga kyoki ye inline block hai */
+/* } */ 
+
+/* FONT WEIGHT PROPERTY */
+
+/* 
+p{
+    font-weight: 700; // ya bold
+    font-size: 40px;
+    line-height: 30px;
+    word-spacing:10px;
+
+    letter-spacing: 5px;
+}
+h1{
+    font-weight: bold;
+    font-size: 20px;
+    text-decoration: overline solid red;
+    font-weight: 700 par bold hoga aur 400 par normal hoga;
+    font-style: italic;
+} */

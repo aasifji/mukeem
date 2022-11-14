@@ -1,0 +1,26 @@
+/* p:first-child{
+    color:red
+}
+p:first-of-type{
+    color:green;
+}
+p:last-child{
+    color: aqua;
+}
+p:last-of-type{
+    color: red;
+} */
+
+/* p:nth-child(2){
+    color:green
+/* } */
+/* p:nth-child(2n){
+    color: brown;
+} */ 
+p:nth-of-type(2){
+    color: blue;
+}
+    ul li:nth-of-type(2n){
+        color: red;
+        background: darkgoldenrod;
+    }
